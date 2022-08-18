@@ -13,4 +13,4 @@ $("#skill-list").on("click", ".remove", function(){
     });
 });
 
-
+//yo
