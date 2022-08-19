@@ -1,0 +1,34 @@
+div{
+    text-align: center
+}
+h1{
+    background-color: #93c47e;
+}
+
+.button{
+    border: 10 px solid black;
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    cursor: pointer;
+} 
+
+.skill{
+border-color:  #93c47e
+color:  #93c47e
+}
+
+
+/* .btn {
+    border: 10px solid black;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+/* Green */
+/* .success {
+    border-color: #04AA6D;
+    color: green;
+}   */ */
